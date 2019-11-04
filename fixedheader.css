@@ -1,0 +1,10 @@
+.bar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: silver;
+    font-size: 30px;
+}
+.main{
+    margin-top: 50px;
+}
